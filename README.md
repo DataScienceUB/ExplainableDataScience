@@ -27,3 +27,5 @@ Follow these steps in order to work in Colab:
 + **Set up a free GPU** (when using deep learning). Go to the `runtime` dropdown menu, selecting `change runtime type` and selecting GPU in the hardware accelerator drop-down menu.
 + Get coding!
 
+[Colab FAQ](https://research.google.com/colaboratory/faq.html)
+
