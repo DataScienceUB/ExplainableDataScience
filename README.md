@@ -2,7 +2,7 @@
 
 ## ExplainableDataScience Repository
 
-This repository contains notebooks used in the Explainable Data Science Course of the Universitat de Barcelona.
+This repository contains notebooks used in the Explainable Data Science Course.
 
 ## Course Description
 
@@ -19,3 +19,11 @@ You can develop machine learning applications with Google Colaboratory (Colab). 
 You can find more information in this blogs: 
 + https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
 + https://medium.com/tensorflow/colab-an-easy-way-to-learn-and-use-tensorflow-d74d1686e309
+
+Follow these steps in order to work in Colab:
+
++ Connect to https://colab.research.google.com/ (you will a Google account).
++ Create a folder for your notebooks (this step isn’t totally necessary if you want to just start working in Colab). You can do that by going to your Google Drive and clicking `New` and then creating a new folder. Then, if you want, while you’re already in your Google Drive you can create a new Colab notebook. Just click `New` and drop the menu down to `More` and then select `Colaboratory`. Otherwise, you can always go directly to Google Colab.
++ Set up your free GPU (when using deep learning). Go to the `runtime` dropdown menu, selecting `change runtime type` and selecting GPU in the hardware accelerator drop-down menu.
++ Get coding!
+
