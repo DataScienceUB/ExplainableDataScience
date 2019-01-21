@@ -22,8 +22,8 @@ You can find more information in this blogs:
 
 Follow these steps in order to work in Colab:
 
-+ Connect to https://colab.research.google.com/ (you will a Google account).
-+ Create a folder for your notebooks (this step isn’t totally necessary if you want to just start working in Colab). You can do that by going to your Google Drive and clicking `New` and then creating a new folder. Then, if you want, while you’re already in your Google Drive you can create a new Colab notebook. Just click `New` and drop the menu down to `More` and then select `Colaboratory`. Otherwise, you can always go directly to Google Colab.
-+ Set up your free GPU (when using deep learning). Go to the `runtime` dropdown menu, selecting `change runtime type` and selecting GPU in the hardware accelerator drop-down menu.
++ **Connect** to https://colab.research.google.com/ (you will need a Google account).
++ **Create a folder** for your notebooks (this step isn’t totally necessary if you want to just start working in Colab). You can do that by going to your Google Drive and clicking `New` and then creating a new folder. Then, if you want, while you’re already in your Google Drive you can create a new Colab notebook. Just click `New` and drop the menu down to `More` and then select `Colaboratory`. Otherwise, you can always go directly to Google Colab.
++ **Set up a free GPU** (when using deep learning). Go to the `runtime` dropdown menu, selecting `change runtime type` and selecting GPU in the hardware accelerator drop-down menu.
 + Get coding!
 
