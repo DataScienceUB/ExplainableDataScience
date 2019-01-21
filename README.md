@@ -10,7 +10,7 @@ Explainability is one of the most important problems of machine learning and a h
 
 ## Course Instructor
 
-[Jordi Vitrià](https://algorismes.github.io/)
+[Jordi Vitrià](https://algorismes.github.io/), Universitat de Barcelona
 
 ## Course Software Installation 
 
