@@ -1,6 +1,6 @@
 # Explainable Data Science Course
 
-5/3/2020 Download:[Explainable Data Science](https://send.firefox.com/download/fbcf8d085a765b7b/#8hcExlktGUQluEZoyLMsXQ)
+5/3/2020 Download:[Explainable Data Science](https://send.firefox.com/download/a54b27329f7c2643/#UoZXGFhEuADdc1YP4pWv-Q)
 
 ## ExplainableDataScience Repository
 
